@@ -2,6 +2,7 @@ from OpenGL.GL import *
 from OpenGL.GLU import *
 from OpenGL.GLUT import *
 def draw():
+
     glColor(1, 1, 1)
 
     glBegin(GL_POLYGON)
